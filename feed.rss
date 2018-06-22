@@ -1,19 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<title>My Blog</title>
-		<link>http://host.com/</link>
-		<description>Welcome!</description>
+		<title>SchwobaIT</title>
+		<link>https://schwobait.github.io/</link>
+		<description>A bisl fachsimperln für zwischenai</description>
 		<copyright>2018</copyright>
-		<pubDate>Fri, 22 Jun 2018 11:20:11 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Jun 2018 11:20:11 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Jun 2018 21:04:46 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Jun 2018 21:04:46 GMT</lastBuildDate>
 		<item>
-			<title>First Post</title>
-			<link>http://host.com/posts/first-post</link>
-			<description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
-			<guid>http://host.com/posts/first-post</guid>
-			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;This is my first post!&lt;/p&gt;
+			<title>Einstieg in den statisch generierten Blog</title>
+			<link>https://schwobait.github.io/posts/first-post</link>
+			<description>&lt;p&gt;Um einen Heimat für die vielen Ideen und Hirnergüße zu einzurichten haben wir uns für GitHub entschieden.&lt;/p&gt;</description>
+			<guid>https://schwobait.github.io/posts/first-post</guid>
+			<pubDate>Fri, 22 Jun 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Um einen Heimat für die vielen Ideen und Hirnergüße zu einzurichten haben wir uns für GitHub entschieden.&lt;/p&gt;
+&lt;p&gt;Denn &lt;strong&gt;einem geschenkten Gaul schaut man nichts ins Maul&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Dank der (etwas gewöhnungswürdigen) WYAM.IO Toolchain von Dave Glick (&lt;a href="https://github.com/daveaglick"&gt;https://github.com/daveaglick&lt;/a&gt;) wurde in &lt;em&gt;Null Komma Nichts&lt;/em&gt; ein Blog aufgebaut.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Gut, wir mussten erst mal dass hier lesen =&amp;gt; &lt;a href="https://win32.io/posts/Wyam-GitHub-Pages"&gt;https://win32.io/posts/Wyam-GitHub-Pages&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kurze Rede Langer Sinn, hier fängt es an und dort hört es auf.&lt;/p&gt;
+&lt;p&gt;Bald wieder, dann mit vielen interessanten Themen.&lt;/p&gt;
 </content:encoded>
 		</item>
 	</channel>

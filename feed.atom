@@ -1,18 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="http://host.com/" />
-	<id>http://host.com/</id>
-	<title>My Blog</title>
+	<link rel="self" href="https://schwobait.github.io/" />
+	<id>https://schwobait.github.io/</id>
+	<title>SchwobaIT</title>
 	<rights>2018</rights>
-	<updated>2018-06-22T11:20:11Z</updated>
-	<subtitle>Welcome!</subtitle>
+	<updated>2018-06-22T21:04:46Z</updated>
+	<subtitle>A bisl fachsimperln für zwischenai</subtitle>
 	<entry>
-		<link href="http://host.com/posts/first-post" />
-		<id>http://host.com/posts/first-post</id>
-		<title>First Post</title>
-		<updated>2016-01-01T00:00:00Z</updated>
-		<content>&lt;p&gt;This is my first post!&lt;/p&gt;
+		<link href="https://schwobait.github.io/posts/first-post" />
+		<id>https://schwobait.github.io/posts/first-post</id>
+		<title>Einstieg in den statisch generierten Blog</title>
+		<updated>2018-06-22T00:00:00Z</updated>
+		<content>&lt;p&gt;Um einen Heimat für die vielen Ideen und Hirnergüße zu einzurichten haben wir uns für GitHub entschieden.&lt;/p&gt;
+&lt;p&gt;Denn &lt;strong&gt;einem geschenkten Gaul schaut man nichts ins Maul&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Dank der (etwas gewöhnungswürdigen) WYAM.IO Toolchain von Dave Glick (&lt;a href="https://github.com/daveaglick"&gt;https://github.com/daveaglick&lt;/a&gt;) wurde in &lt;em&gt;Null Komma Nichts&lt;/em&gt; ein Blog aufgebaut.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Gut, wir mussten erst mal dass hier lesen =&amp;gt; &lt;a href="https://win32.io/posts/Wyam-GitHub-Pages"&gt;https://win32.io/posts/Wyam-GitHub-Pages&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kurze Rede Langer Sinn, hier fängt es an und dort hört es auf.&lt;/p&gt;
+&lt;p&gt;Bald wieder, dann mit vielen interessanten Themen.&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;This is my first post!&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;Um einen Heimat für die vielen Ideen und Hirnergüße zu einzurichten haben wir uns für GitHub entschieden.&lt;/p&gt;</summary>
 	</entry>
 </feed>
