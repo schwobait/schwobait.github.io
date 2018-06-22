@@ -1,8 +1,8 @@
 #recipe Blog
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "host.com";
-Settings[BlogKeys.Title] = "My Blog";
-Settings[BlogKeys.Description] = "Welcome!";
-
-// Add any pipeline customizations here
+Settings[Keys.Host] = "schwobait.github.io";
+Settings[Keys.LinksUseHttps] = true;
+Settings[BlogKeys.Title] = "SchwobaIT";
+Settings[BlogKeys.Description] = "A bisl fachsimperln für zwischenai";
+Settings[BlogKeys.Intro] = "technology, developer, agile, .net, UX, ausgfuggst geek";
