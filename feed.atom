@@ -4,8 +4,21 @@
 	<id>https://schwobait.github.io/</id>
 	<title>SchwobaIT</title>
 	<rights>2018</rights>
-	<updated>2018-06-22T21:04:46Z</updated>
+	<updated>2018-06-23T20:02:00Z</updated>
 	<subtitle>A bisl fachsimperln für zwischenai</subtitle>
+	<entry>
+		<link href="https://schwobait.github.io/posts/2018.06.23_Quis.es" />
+		<id>https://schwobait.github.io/posts/2018.06.23_Quis.es</id>
+		<title>SchwobatIT, Quis es?</title>
+		<updated>2018-06-23T00:00:00Z</updated>
+		<content>&lt;p&gt;Wer steht denn hinter SchwobaIT?&lt;/p&gt;
+&lt;p&gt;Jetzt sollte ein klassischer Darkwin Duck Spruch kommen doch leider &lt;em&gt;I am all out of bubble gum&lt;/em&gt;. :p&lt;/p&gt;
+&lt;p&gt;Auf der einen Seite des Yin steht der gute Timo (&lt;a href="https://github.com/TimoMeusel"&gt;https://github.com/TimoMeusel&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Im Yang tummelt der Daniel rum (&lt;a href="https://github.com/dpisanu"&gt;https://github.com/dpisanu&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Mehr zu und von den einzelnen noch später.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Wer steht denn hinter SchwobaIT?&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="https://schwobait.github.io/posts/first-post" />
 		<id>https://schwobait.github.io/posts/first-post</id>

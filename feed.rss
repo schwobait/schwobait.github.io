@@ -5,8 +5,21 @@
 		<link>https://schwobait.github.io/</link>
 		<description>A bisl fachsimperln für zwischenai</description>
 		<copyright>2018</copyright>
-		<pubDate>Fri, 22 Jun 2018 21:04:46 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Jun 2018 21:04:46 GMT</lastBuildDate>
+		<pubDate>Sat, 23 Jun 2018 20:02:00 GMT</pubDate>
+		<lastBuildDate>Sat, 23 Jun 2018 20:02:00 GMT</lastBuildDate>
+		<item>
+			<title>SchwobatIT, Quis es?</title>
+			<link>https://schwobait.github.io/posts/2018.06.23_Quis.es</link>
+			<description>&lt;p&gt;Wer steht denn hinter SchwobaIT?&lt;/p&gt;</description>
+			<guid>https://schwobait.github.io/posts/2018.06.23_Quis.es</guid>
+			<pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Wer steht denn hinter SchwobaIT?&lt;/p&gt;
+&lt;p&gt;Jetzt sollte ein klassischer Darkwin Duck Spruch kommen doch leider &lt;em&gt;I am all out of bubble gum&lt;/em&gt;. :p&lt;/p&gt;
+&lt;p&gt;Auf der einen Seite des Yin steht der gute Timo (&lt;a href="https://github.com/TimoMeusel"&gt;https://github.com/TimoMeusel&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Im Yang tummelt der Daniel rum (&lt;a href="https://github.com/dpisanu"&gt;https://github.com/dpisanu&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Mehr zu und von den einzelnen noch später.&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>Einstieg in den statisch generierten Blog</title>
 			<link>https://schwobait.github.io/posts/first-post</link>
